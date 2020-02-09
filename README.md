@@ -45,5 +45,5 @@ cuối cùng sẽ được hiểu ngầm là sẽ được nối đến điểm 
 thành một đa giác lồi hợp lệ.
 Mỗi số trong dữ liệu input cách nhau bởi dấu phẩy.
 
-** exemple **
+** example picture **
 ![Finding path](https://i.imgur.com/XnWkaO9.png)
